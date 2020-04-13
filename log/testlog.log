@@ -1,0 +1,219 @@
+2020-04-12 18:17:03,774 - nopCommerce -INFO - ********** Launching browser*********
+2020-04-12 18:17:03,823 - nopCommerce -INFO - ********** Opening URL*********
+2020-04-12 18:17:07,600 - nopCommerce -INFO - ********** Providing login details*********
+2020-04-12 18:17:07,807 - nopCommerce -INFO - ********** Started login*********
+2020-04-12 18:17:21,220 - nopCommerce -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 18:17:34,066 - nopCommerce -INFO - ********** Adding new customer*********
+2020-04-12 18:17:34,067 - nopCommerce -INFO - ********** Proving customer details*********
+2020-04-12 18:17:41,107 - nopCommerce -INFO - ********** Saving customer data*********
+2020-04-12 18:17:45,245 - nopCommerce -INFO - ********** Closing browser*********
+2020-04-12 18:17:48,274 - nopCommerce -INFO - ********** Launching browser*********
+2020-04-12 18:17:48,276 - nopCommerce -INFO - ********** Opening URL*********
+2020-04-12 18:17:51,265 - nopCommerce -INFO - ********** Providing login details*********
+2020-04-12 18:17:51,472 - nopCommerce -INFO - ********** Started login*********
+2020-04-12 18:17:56,958 - nopCommerce -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 18:18:03,112 - nopCommerce -INFO - ********* Searching customer details by Email **************
+2020-04-12 18:18:06,485 - nopCommerce -INFO - ********** Closing browser*********
+2020-04-12 18:18:09,456 - nopCommerce -INFO - ********** Launching browser*********
+2020-04-12 18:18:09,460 - nopCommerce -INFO - ********** Opening URL*********
+2020-04-12 18:18:12,343 - nopCommerce -INFO - ********** Providing login details*********
+2020-04-12 18:18:12,560 - nopCommerce -INFO - ********** Started login*********
+2020-04-12 18:18:16,789 - nopCommerce -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 18:18:23,129 - nopCommerce -INFO - ********* Searching customer details by Name **************
+2020-04-12 18:18:26,432 - nopCommerce -INFO - ********** Closing browser*********
+2020-04-12 18:18:29,426 - nopCommerce -INFO - ********** Launching browser*********
+2020-04-12 18:18:29,428 - nopCommerce -INFO - ********** Opening URL*********
+2020-04-12 18:18:32,337 - nopCommerce -INFO - ********** Providing login details*********
+2020-04-12 18:18:32,520 - nopCommerce -INFO - ********** Started login*********
+2020-04-12 18:18:36,221 - nopCommerce -INFO - ********** Login failed*********
+2020-04-12 18:18:39,313 - nopCommerce -INFO - ********** Click on Logout link*********
+2020-04-12 18:18:40,482 - nopCommerce -INFO - ********** Login failed*********
+2020-04-12 18:18:43,486 - nopCommerce -INFO - ********** Closing browser*********
+2020-04-12 18:18:46,403 - nopCommerce -INFO - ********** Launching browser*********
+2020-04-12 18:18:46,404 - nopCommerce -INFO - ********** Opening URL*********
+2020-04-12 18:18:49,103 - nopCommerce -INFO - ********** Providing login details*********
+2020-04-12 18:18:49,335 - nopCommerce -INFO - ********** Started login*********
+2020-04-12 18:18:52,036 - nopCommerce -INFO - ********** Login failed*********
+2020-04-12 18:18:55,204 - nopCommerce -INFO - ********** Click on Logout link*********
+2020-04-12 18:19:00,345 - nopCommerce -INFO - ********** Login failed*********
+2020-04-12 18:19:02,613 - nopCommerce -INFO - ********** Launching browser*********
+2020-04-12 18:19:02,616 - nopCommerce -INFO - ********** Opening URL*********
+2020-04-12 18:19:04,936 - nopCommerce -INFO - ********** Providing login details*********
+2020-04-12 18:19:05,127 - nopCommerce -INFO - ********** Started login*********
+2020-04-12 18:19:05,837 - nopCommerce -INFO - ********** Loging passed*********
+2020-04-12 18:47:11,362 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 18:47:11,454 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 18:47:30,647 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 18:47:30,754 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 18:47:42,959 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 18:47:53,549 - nopCommerceSDET -INFO - ********** Adding new customer*********
+2020-04-12 18:47:53,549 - nopCommerceSDET -INFO - ********** Proving customer details*********
+2020-04-12 18:48:00,939 - nopCommerceSDET -INFO - ********** Saving customer data*********
+2020-04-12 18:48:05,872 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 18:48:09,709 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 18:48:09,711 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 18:48:18,652 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 18:48:18,761 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 18:48:24,179 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 18:48:31,336 - nopCommerceSDET -INFO - ********* Searching customer details by Email **************
+2020-04-12 18:48:34,753 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 18:48:38,688 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 18:48:38,690 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 18:48:45,714 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 18:48:45,818 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 18:48:50,366 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 18:48:56,894 - nopCommerceSDET -INFO - ********* Searching customer details by Name **************
+2020-04-12 18:49:00,406 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 18:56:34,250 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 18:56:34,282 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 18:56:37,782 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 18:56:37,980 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 18:56:44,149 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 18:56:53,260 - nopCommerceSDET -INFO - ********** Adding new customer*********
+2020-04-12 18:56:53,260 - nopCommerceSDET -INFO - ********** Proving customer details*********
+2020-04-12 18:57:00,292 - nopCommerceSDET -INFO - ********** Saving customer data*********
+2020-04-12 18:57:03,960 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 18:57:07,008 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 18:57:07,010 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 18:57:09,395 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 18:57:09,583 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 18:57:12,413 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 18:57:15,442 - nopCommerceSDET -INFO - ********** Click on Logout link*********
+2020-04-12 18:57:16,746 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 18:57:19,757 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 19:03:28,373 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 19:03:28,396 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 19:05:57,012 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 19:05:57,039 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 19:13:02,006 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 19:13:02,031 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 19:13:05,428 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 19:13:05,655 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 19:13:12,578 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 19:13:22,093 - nopCommerceSDET -INFO - ********** Adding new customer*********
+2020-04-12 19:13:22,094 - nopCommerceSDET -INFO - ********** Proving customer details*********
+2020-04-12 19:13:29,066 - nopCommerceSDET -INFO - ********** Saving customer data*********
+2020-04-12 19:13:32,834 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 19:13:35,773 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 19:13:35,774 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 19:13:38,637 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 19:13:38,828 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 19:13:43,206 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 19:13:49,240 - nopCommerceSDET -INFO - ********* Searching customer details by Email **************
+2020-04-12 19:13:52,636 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 19:13:55,646 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 19:13:55,648 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 19:13:58,440 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 19:13:58,662 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 19:14:03,355 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 19:14:09,423 - nopCommerceSDET -INFO - ********* Searching customer details by Name **************
+2020-04-12 19:14:12,801 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 19:14:15,775 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 19:14:15,777 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 19:14:20,931 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 19:14:21,117 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 19:14:24,226 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 19:14:27,326 - nopCommerceSDET -INFO - ********** Click on Logout link*********
+2020-04-12 19:14:28,487 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 19:14:31,494 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 19:14:34,378 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 19:14:34,380 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 19:14:36,737 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 19:14:36,953 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 19:14:39,590 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 19:14:42,620 - nopCommerceSDET -INFO - ********** Click on Logout link*********
+2020-04-12 19:14:43,983 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 19:14:46,986 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 19:14:50,020 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 19:14:50,023 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 19:14:52,336 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 19:14:52,556 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 19:14:55,373 - nopCommerceSDET -INFO - ********** Loging passed*********
+2020-04-12 23:16:18,788 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:16:18,832 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:16:23,499 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:16:23,709 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:16:30,323 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 23:16:39,534 - nopCommerceSDET -INFO - ********** Adding new customer*********
+2020-04-12 23:16:39,534 - nopCommerceSDET -INFO - ********** Proving customer details*********
+2020-04-12 23:16:46,505 - nopCommerceSDET -INFO - ********** Saving customer data*********
+2020-04-12 23:16:57,547 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:17:00,559 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:17:00,561 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:17:06,215 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:17:06,404 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:17:11,747 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 23:17:18,041 - nopCommerceSDET -INFO - ********* Searching customer details by Email **************
+2020-04-12 23:17:21,494 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:17:24,563 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:17:24,568 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:17:27,749 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:17:27,989 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:17:32,890 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 23:17:39,136 - nopCommerceSDET -INFO - ********* Searching customer details by Name **************
+2020-04-12 23:17:42,482 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:17:45,445 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:17:45,449 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:17:47,684 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:17:47,920 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:17:50,784 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 23:17:53,824 - nopCommerceSDET -INFO - ********** Click on Logout link*********
+2020-04-12 23:17:55,134 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 23:17:58,145 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:18:01,142 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:18:01,144 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:18:03,432 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:18:03,656 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:18:06,246 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 23:18:09,261 - nopCommerceSDET -INFO - ********** Click on Logout link*********
+2020-04-12 23:18:10,658 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 23:18:13,663 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:18:19,010 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:18:19,012 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:18:24,118 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:18:24,349 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:18:24,872 - nopCommerceSDET -INFO - ********** Loging passed*********
+2020-04-12 23:39:47,426 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:39:47,459 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:39:54,057 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:39:54,284 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:40:02,650 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 23:40:12,562 - nopCommerceSDET -INFO - ********** Adding new customer*********
+2020-04-12 23:40:12,563 - nopCommerceSDET -INFO - ********** Proving customer details*********
+2020-04-12 23:40:19,566 - nopCommerceSDET -INFO - ********** Saving customer data*********
+2020-04-12 23:40:23,309 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:40:26,276 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:40:26,278 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:40:29,074 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:40:29,254 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:40:33,384 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 23:40:39,480 - nopCommerceSDET -INFO - ********* Searching customer details by Email **************
+2020-04-12 23:40:42,828 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:40:45,744 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:40:45,747 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:40:48,513 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:40:48,713 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:40:52,549 - nopCommerceSDET -INFO - ********* Verifying Dashboard page title after login successful **************
+2020-04-12 23:40:58,653 - nopCommerceSDET -INFO - ********* Searching customer details by Name **************
+2020-04-12 23:41:01,977 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:41:04,920 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:41:04,924 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:41:10,947 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:41:11,149 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:41:17,707 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 23:41:20,760 - nopCommerceSDET -INFO - ********** Click on Logout link*********
+2020-04-12 23:41:22,025 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 23:41:25,029 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:41:27,984 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:41:27,986 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:41:33,367 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:41:33,557 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:41:36,139 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 23:41:39,191 - nopCommerceSDET -INFO - ********** Click on Logout link*********
+2020-04-12 23:41:40,371 - nopCommerceSDET -INFO - ********** Login failed*********
+2020-04-12 23:41:43,375 - nopCommerceSDET -INFO - ********** Closing browser*********
+2020-04-12 23:41:46,317 - nopCommerceSDET -INFO - ************* Launching Browser *****************
+2020-04-12 23:41:46,321 - nopCommerceSDET -INFO - ********** Opening URL*********
+2020-04-12 23:41:48,507 - nopCommerceSDET -INFO - ********** Providing login details*********
+2020-04-12 23:41:48,711 - nopCommerceSDET -INFO - ********** Started login*********
+2020-04-12 23:41:49,340 - nopCommerceSDET -INFO - ********** Loging passed*********
